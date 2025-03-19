@@ -17,6 +17,11 @@ Supervisor for 3rd year undergraduate courses: Information Theory and Coding (3F
 
 Demonstrator for Part IIA Project Audio Modem (GF3).
 
+
+
+
+
+
 **Biography**
 
 I received my BA and MEng degrees from the University of Cambridge (Churchill College). My MEng thesis was titled Algorithms for Matrix Estimation.
