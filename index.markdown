@@ -19,9 +19,6 @@ Demonstrator for Part IIA Project Audio Modem (GF3).
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
 
 **Biography**
 
