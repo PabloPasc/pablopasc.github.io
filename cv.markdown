@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Please find attached my CV:
+Please find attached my CV: [Pablo Pascual Cobo]
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
