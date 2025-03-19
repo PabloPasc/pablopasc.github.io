@@ -4,8 +4,10 @@ title: CV
 permalink: /cv/
 ---
 
-Please find attached my CV: [Pablo Pascual Cobo]
-[jekyll][jekyll-organization] /
+Please find attached my CV: [Pablo Pascual Cobo](CV_pp423_2025.pdf)
+
+
+<!---[jekyll][jekyll-organization] /--->
 [minima](https://github.com/jekyll/minima)
 
 You can find the source code for Jekyll at GitHub:
