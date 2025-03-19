@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<img align="left" width="347" height="359" src="pablo_photo.jpg">
+
 **Research interests**
 
 Coding theory, communications, information theory, high-dimensional estimation, compressed sensing, message-passing algorithms. My research focuses on applying spatial coupling techniques to high-dimensional estimation problems.
