@@ -19,6 +19,8 @@ Nelvin Tan, **Pablo Pascual Cobo**, and Ramji Venkataramanan. [Quantitative grou
 
 Nelvin Tan, **Pablo Pascual Cobo**, and Ramji Venkataramanan. [Quantitative group testing and pooled data with sublinear number of tests](https://doi.org/10.3929/ethz-b-000664557). International Zurich Seminar on Information and Communication, 2024.
 
+**PhD Thesis**
+**P. Pascual Cobo**. [Spatial Coupling for High-Dimensional Estimation](https://doi.org/10.17863/CAM.116638). PhD thesis, Dept. Eng., Cambridge Univ., Cambridge, UK, 2024.
 
 <!---[jekyll][jekyll-organization] /--->
 <!---[minima](https://github.com/jekyll/minima)--->
