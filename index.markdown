@@ -9,7 +9,7 @@ layout: home
 
 **Research interests**
 
-Coding theory, communications, information theory, high-dimensional estimation, compressed sensing, message-passing algorithms. My research focuses on applying spatial coupling techniques to high-dimensional estimation problems.
+Coding theory, communications, information theory, high-dimensional statistics, compressed sensing, message-passing algorithms.
 
 **Teaching activity**
 
@@ -23,5 +23,7 @@ Demonstrator for Part IIA Project Audio Modem (GF3).
 
 **Biography**
 
-I received my BA and MEng degrees from the University of Cambridge (Churchill College). My MEng thesis was titled Algorithms for Matrix Estimation.
+I am currently a postdoctoral research associate in the Probabilistic Systems, Information and Inference group within the Information Engineering division of the Department of Engineering, University of Cambridge. I received my PhD degree in Engineering from the University of Cambridge (Churchill College) in July 2025. My PhD thesis was titled "Spatial Coupling for High-Dimensional Estimation" and my research focused on developing and implementing efficient and adaptable Bayesian algorithms for high-dimensional statistical estimation. These included applications to multi-user communications or group testing.
+
+I received my BA and MEng degrees from the University of Cambridge (Churchill College). My MEng thesis was titled "Algorithms for Matrix Estimation".
 
