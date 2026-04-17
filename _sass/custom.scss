@@ -42,17 +42,14 @@
 }
 
 .author__avatar img {
-  width: 180px !important;
-  max-width: 180px !important;
+  width: 150px !important;
+  max-width: 150px !important;
   border-radius: 50%;
 }
 
 /* Main body text only (not sidebar) */
 .page__content p,
 .page__content li {
-  font-size: 0.92rem !important;
+  font-size: 0.82rem !important;
   line-height: 1.6;
 }
-
-.author__avatar img { outline: 4px solid red !important; }
-.page__content p { color: #b00020 !important; }
