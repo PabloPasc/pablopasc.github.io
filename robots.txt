@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pablopasc.github.io/sitemap.xml
