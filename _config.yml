@@ -28,7 +28,23 @@ github_username: PabloPasc
 linkedin_username: pablo-pascual-cobo-022abb174
 scholar_userid: 5XcF5JUAAAAJ
 author:
+  name: "Pablo Pascual Cobo"
   avatar: "/pablo_photo.jpg"
+  bio: "Postdoctoral Researcher at ISTA"
+  location: "Klosterneuburg, Austria"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:pablopascualcobo@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pablo-pascual-cobo-022abb174/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=5XcF5JUAAAAJ"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/PabloPasc"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
