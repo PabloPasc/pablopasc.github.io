@@ -35,6 +35,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: "default"
+locale: "en-US"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
