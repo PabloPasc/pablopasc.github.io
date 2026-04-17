@@ -46,3 +46,8 @@
   max-width: 220px !important;
   border-radius: 50%;
 }
+
+/* Slightly smaller main content text (not sidebar) */
+.page__content {
+  font-size: 0.95rem;
+}
