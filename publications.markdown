@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Publications
+layout: single
+title: "Publications"
 permalink: /publications/
 ---
 
@@ -21,12 +21,10 @@ Nelvin Tan, **Pablo Pascual Cobo**, and Ramji Venkataramanan. [Quantitative grou
 
 &nbsp;
 
-**PhD Thesis**
+## PhD Thesis
 
 **P. Pascual Cobo**. [Spatial Coupling for High-Dimensional Estimation](https://doi.org/10.17863/CAM.116638). PhD thesis, Dept. Eng., Cambridge Univ., Cambridge, UK, 2024.
 
-<!---[jekyll][jekyll-organization] /--->
-<!---[minima](https://github.com/jekyll/minima)--->
 
 <!---You can find the source code for Jekyll at GitHub:--->
 <!---[jekyll][jekyll-organization] /--->
