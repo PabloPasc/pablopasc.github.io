@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pablo Pascual Cobo
+title: "Pablo Pascual Cobo"
 email: pablopascualcobo@gmail.com
 description: >-
   Postdoctoral Researcher at the Institute of Science and Technology Austria (ISTA) specializing in Information Theory, Coding, and High-Dimensional Statistics.
