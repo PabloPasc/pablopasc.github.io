@@ -20,14 +20,16 @@
 
 title: Pablo Pascual Cobo
 email: pablopascualcobo@gmail.com
-description: >- # this means to ignore newlines until "baseurl:""
-  Pablo Pascual Cobo - Postdoctoral Researcher at the Institute of Science and Technology Austria (ISTA) specializing in Information Theory, Coding, and High-Dimensional Statistics.
+description: >-
+  Postdoctoral Researcher at the Institute of Science and Technology Austria (ISTA) specializing in Information Theory, Coding, and High-Dimensional Statistics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pablopasc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  PabloPasc
+github_username: PabloPasc
+linkedin_username: pablo-pascual-cobo-022abb174
+scholar_userid: 5XcF5JUAAAAJ
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-sitemap
