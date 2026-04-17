@@ -37,17 +37,19 @@
 
 /* Increase sidebar profile image size */
 .author__avatar {
-  width: 220px !important;
-  max-width: 220px !important;
+  width: 180px !important;
+  max-width: 180px !important;
 }
 
 .author__avatar img {
-  width: 220px !important;
-  max-width: 220px !important;
+  width: 180px !important;
+  max-width: 180px !important;
   border-radius: 50%;
 }
 
-/* Slightly smaller main content text (not sidebar) */
-.page__content {
-  font-size: 0.85rem;
+/* Main body text only (not sidebar) */
+.page__content p,
+.page__content li {
+  font-size: 0.92rem !important;
+  line-height: 1.6;
 }
