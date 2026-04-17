@@ -5,8 +5,6 @@ author_profile: true
 permalink: /
 ---
 
-<img align="left" width="347" height="359" src="pablo_photo.jpg">
-
 **Research interests**
 
 Coding theory, communications, information theory, high-dimensional statistics, compressed sensing, message-passing algorithms.
