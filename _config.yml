@@ -50,7 +50,6 @@ author:
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-include-cache
   - jekyll-remote-theme
