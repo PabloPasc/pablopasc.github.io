@@ -29,7 +29,7 @@ linkedin_username: pablo-pascual-cobo-022abb174
 scholar_userid: 5XcF5JUAAAAJ
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes-jekyll"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
