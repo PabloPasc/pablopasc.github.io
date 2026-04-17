@@ -27,6 +27,8 @@ url: "https://pablopasc.github.io" # the base hostname & protocol for your site,
 github_username: PabloPasc
 linkedin_username: pablo-pascual-cobo-022abb174
 scholar_userid: 5XcF5JUAAAAJ
+author:
+  avatar: "/pablo_photo.jpg"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
