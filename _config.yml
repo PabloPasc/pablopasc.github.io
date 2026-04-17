@@ -53,6 +53,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 minimal_mistakes_skin: "default"
 locale: "en-US"
