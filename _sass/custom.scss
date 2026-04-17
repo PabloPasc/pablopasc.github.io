@@ -34,3 +34,9 @@
     font-size: 0.95rem;
   }
 }
+
+/* Make sidebar avatar slightly bigger */
+.author__avatar img {
+  max-width: 140px; /* default is smaller; try 130-160px */
+  border-radius: 50%;
+}
