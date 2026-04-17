@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: single
+title: "Pablo Pascual Cobo"
+author_profile: true
+permalink: /
 ---
 
 <img align="left" width="347" height="359" src="pablo_photo.jpg">
